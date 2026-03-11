@@ -87,10 +87,8 @@
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
+* GitHub: https://github.com/Manju929-arch
+* LinkedIn:linkedin.com/in/manjunath-g-657073277
+* Email: manjunathmanjuu155@gmail.com
 
 ⭐ *Learning, building, and improving every day.*
