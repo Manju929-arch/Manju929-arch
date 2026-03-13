@@ -7,24 +7,21 @@
 <!-- Animated Typing Name -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Manjunath+G;AI+Engineer+in+Progress;Final+Year+CSE+Student;Future+IIT+Bombay+M.Tech+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Manjunath+G;AI+Engineer+in+Progress;Final+Year+CSE+Student"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 Final Year **Computer Science Student**
 🤖 Aspiring **AI Engineer**
-🎯 Goal: **M.Tech in Artificial Intelligence – IIT Bombay**
 
 * 🔭 Working on **Artificial Intelligence & Machine Learning**
-* 📚 Preparing for **GATE 2026**
 * 🧠 Interested in **Generative AI & LLMs**
 * 💻 Practicing **Data Structures & Algorithms**
-* 📊 Building **Machine Learning Projects**
 
 ---
 
@@ -33,66 +30,50 @@
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
-</p>
-
----
-
-### AI / Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Word2Vec-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-### Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-</p>
-
----
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript"/>
 </p>
 
 ---
 
 # 🚀 Projects
 
-### 📊 Exploratory Data Analysis – Delinquency Risk Model
+## 🚗 Car Pooling Website
 
-* Data cleaning and **missing value analysis**
-* Identified **financial risk indicators**
-* Created **decision support reports**
-
----
-
-### 🤖 NLP Word2Vec Model
-
-* Built **Word2Vec embeddings**
-* Measured **word similarity**
-* Visualized embeddings with **t-SNE**
+* Developed a **ride sharing platform**
+* Users can **offer rides or join rides**
+* Built using **HTML, CSS, JavaScript**
 
 ---
 
-### 🔐 Secure Email Verification System
+## 🗂 CRUD Operation Web Application
 
-* Implemented **secure authentication**
-* Built **email validation system**
+* Implemented **Create, Read, Update, Delete**
+* Demonstrates **database interaction**
+* Used for **data management systems**
+
+---
+
+## 🍽 Canteen Analyzer
+
+* Analyzes **canteen usage and food demand**
+* Tracks **sales and consumption patterns**
+* Helps improve **canteen management decisions**
+
+---
+
+## 💰 Expense Tracker
+
+* Tracks **daily personal expenses**
+* Allows users to **add, update and monitor spending**
+* Displays **financial insights**
+
+---
+
+## 📚 DSA Learning Website
+
+* Platform for learning **Data Structures & Algorithms**
+* Includes **examples and explanations**
+* Helps students prepare for **coding interviews**
 
 ---
 
