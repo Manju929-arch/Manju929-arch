@@ -96,14 +96,11 @@
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manju929-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manju929-arch&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manju929-arch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manju929-arch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 ---
 
